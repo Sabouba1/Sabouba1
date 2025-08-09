@@ -2,11 +2,9 @@
 
 *Cybersecurity Graduate | CompTIA Security+ | DFIRA Certified | Learning Azure Cloud Security*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/YOUR-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/sab0uba/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey)](https://github.com/Sabouba1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://YOUR-WEBSITE.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/YOUR-USERNAME)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://app.hackthebox.com/profile/YOUR-ID)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/Sabouba)
 
 ---
 
