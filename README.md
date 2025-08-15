@@ -57,8 +57,19 @@ A web-based tool for analyzing, scoring, and cleaning image metadata (EXIF):
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sabouba1&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabouba1&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sabouba1&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
 ## 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/sab0uba](https://www.linkedin.com/in/sab0uba/)
 - **GitHub:** [github.com/Sabouba1](https://github.com/Sabouba1)
-
----
