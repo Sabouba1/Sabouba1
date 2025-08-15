@@ -1,47 +1,64 @@
 <h1 align="center">Yousef Sabouba</h1>
 
 <p align="center">
-    <em>Cybersecurity Graduate | CompTIA Security+ | DFIRA Certified | Learning Azure Cloud Security</em>
+    <em>Cybersecurity Graduate | CompTIA Security+ | DFIRA Certified | Aspiring Azure Cloud Security Engineer</em>
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/sab0uba/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue"></a>
-    <a href="https://github.com/Sabouba1"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey"></a>
-    <a href="https://tryhackme.com/p/Sabouba"><img src="https://img.shields.io/badge/TryHackMe-Profile-red"></a>
+    <a href="https://www.linkedin.com/in/sab0uba/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/Sabouba1"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?logo=github"></a>
+    <a href="https://tryhackme.com/p/Sabouba"><img src="https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white"></a>
 </p>
 
 ---
 
-## About Me
-I’m a cybersecurity graduate building my skills in **Azure Cloud Security**.  
-I hold **CompTIA Security+** and **DFIRA** certifications and enjoy learning how to protect cloud environments by applying security best practices.  
-I’m also exploring basic penetration testing to better understand how attackers think, but my main focus is on cloud security.
-
-Currently, I’m studying for **Microsoft Azure certifications**, starting with **AZ-900** as a foundation.
+## 🧑‍💻 About Me
+I’m a **Cybersecurity Graduate** with a strong interest in **Cloud Security** and **Active Directory security auditing**.  
+My current focus is **Microsoft Azure security** — studying for **AZ-900** and moving toward advanced Azure security certifications.  
+I also enjoy applying security best practices in real-world projects and exploring penetration testing to understand attacker techniques.
 
 ---
 
-## Skills
-- **Cloud Security**: Learning Microsoft Azure security concepts (identity, access control, security tools)
-- **Cybersecurity Fundamentals**: Threat awareness, basic pentesting, incident response basics
-- **Networking Basics**: VLAN, DHCP, DNS, NAT concepts
-- **Security Tools**: Wireshark, Burp Suite, Hashcat
-- **Active Directory**: User/group management, password policy auditing
-- **Programming**: Python (basic scripting, simple GUI apps)
-- **Version Control**: Git & GitHub basics
+## 🛠 Skills
+- **Cloud Security:** Azure Identity & Access Management, Security Center, Defender for Cloud  
+- **Cybersecurity Fundamentals:** Threat analysis, incident response, password security auditing  
+- **Networking:** VLAN, DHCP, DNS, NAT  
+- **Security Tools:** Wireshark, Burp Suite, Hashcat  
+- **Active Directory:** User/group management, password policy audits, stale account detection  
+- **Programming:** Python (automation scripts, GUI tools)  
+- **Version Control:** Git & GitHub  
 
 ---
 
-## Certifications
-- **CompTIA Security+ (SY0-701)**
-- **DFIRA – PGI Cyber Academy**
-- **Microsoft Azure Fundamentals (AZ-900)** – *In progress*
+## 📜 Certifications
+- **CompTIA Security+ (SY0-701)** – *Active*
+- **DFIRA – PGI Cyber Academy** – *Digital Forensics & Incident Response*
+- **Microsoft Azure Fundamentals (AZ-900)** – *In Progress*
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### Active Directory Password Audit Tool
-A Python (PyQt5) tool for evaluating password strength in Active Directory environments:
-- Loads and evaluates NTLM hashes against a wordlist
-- Class
+### [🔐 Active Directory Password Audit Tool](https://github.com/Sabouba1/AD-Password-Audit-Tool)
+A PyQt5-based administrator tool for evaluating password strength in Active Directory:
+- Loads NTLM hashes and evaluates against a wordlist
+- Classifies passwords by strength (weak, medium, strong)
+- Generates PDF security reports
+- Filters by Organizational Units (OUs)
+- Includes stale account detection
+
+### [🖼 ShadowScan – Image Metadata Analyzer](https://sabouba1.github.io/ShadowScan/)
+A web-based tool for analyzing, scoring, and cleaning image metadata (EXIF):
+- Detects sensitive GPS/device info in images
+- Assigns a privacy risk score
+- Supports batch processing
+- Interactive map view for GPS data
+- PDF/CSV export for reporting
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/sab0uba](https://www.linkedin.com/in/sab0uba/)
+- **GitHub:** [github.com/Sabouba1](https://github.com/Sabouba1)
+
+---
