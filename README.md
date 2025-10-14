@@ -37,7 +37,7 @@ I also enjoy applying security best practices in real-world projects and explori
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### [🔐 Active Directory Password Audit Tool](https://github.com/Sabouba1/AD-Password-Audit-Tool)
 A PyQt5-based administrator tool for evaluating password strength in Active Directory:
