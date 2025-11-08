@@ -33,8 +33,9 @@ I also enjoy applying security best practices in real-world projects and explori
 ## 📜 Certifications
 - **CompTIA Security+ (SY0-701)** – *Active*
 - **DFIRA – PGI Cyber Academy** – *Digital Forensics & Incident Response*
+- **OCI 2025 Certified Foundations Associate  – Oracle**
+- ** OCI 2025 Certified AI Foundations Associate  – Oracle**
 - **Microsoft Azure Fundamentals (AZ-900)** – *In Progress*
-
 ---
 
 ##  Projects
